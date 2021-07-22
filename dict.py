@@ -1,0 +1,12 @@
+employees=[{"employee_id":100,"employee_name":"kiran","age":21,"dept":"a1","salary":10},
+{"employee_id":106,"employee_name":"raju","age":20,"dept":"b1","salary":20},
+{"employee_id":101,"employee_name":"hari","age":22,"dept":"c1","salary":30},
+{"employee_id":102,"employee_name":"bharath","age":23,"dept":"d1","salary":40},
+{"employee_id":103,"employee_name":"kumar","age":25,"dept":"e1","salary":50},
+{"employee_id":104,"employee_name":"chinna","age":24,"dept":"f1","salary":60},
+{"employee_id":105,"employee_name":"suri","age":28,"dept":"g1","salary":70},
+{"employee_id":107,"employee_name":"reddy","age":28,"dept":"h1","salary":80},
+{"employee_id":108,"employee_name":"guna","age":19,"dept":"i1","salary":90},
+{"employee_id":109,"employee_name":"pavan","age":18,"dept":"j1","salary":20},]
+print(employees)
+print(len(employees))
